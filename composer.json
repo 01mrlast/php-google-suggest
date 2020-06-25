@@ -1,5 +1,5 @@
 {
-    "name": "euclid1990/php-google-suggest",
+    "name": "euclid1990last/php-google-suggest",
     "description": "PHP Google suggest keyword tool. Google suggest search result.",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
+        "php": ">=7.0",
         "illuminate/config": "~5.0"
     },
     "require-dev": {
